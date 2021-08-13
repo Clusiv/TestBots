@@ -6,7 +6,7 @@ users = {}
 start = """
 Hi. This is a simple bot that implement some dialog.
 Code you can find on github:
-github.com/clusiv/simpleBots/simpledialog.py
+https://github.com/Clusiv/TestBots/blob/master/simpledialog.py
 
 Now follow bot questions.
 """
